@@ -22,3 +22,6 @@
 - [DFS와 BFS](./DFS&BFS/1260.md) ( 백준 1260, 실버 2 )
 - [단지 번호 붙이기](./DFS&BFS/2667.md) ( 백준 2667, 실버 1 )
 - [토마토](./DFS&BFS/7576.md) ( 백준 7576, 실버 1 )
+
+## Dynamic Programing
+- [신나는 함수 실행](./DynamicProgramming/9184.md) ( 백준 9184, 실버 2 )
