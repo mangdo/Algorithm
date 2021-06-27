@@ -25,3 +25,4 @@
 
 ## Dynamic Programing
 - [신나는 함수 실행](./DynamicProgramming/9184.md) ( 백준 9184, 실버 2 )
+- [파도반 수열](./DynamicProgramming/9146.md) ( 백준 9146, 실버 3 )
