@@ -14,7 +14,7 @@
 - [자물쇠와 열쇠](./implement/자물쇠.md) ( 프로그래머스 레벨3 )
 - [지도 자동 구축](./implement/지도자동구축.md) ( 프로그래머스 레벨2 )
 - [전광판](./implement/전광판.md) ( 프로그래머스 레벨2 )
-- [성적평가](./implement/%EC%84%B1%EC%A0%81%ED%8F%89%EA%B0%80.md)
+- [성적평가](./implement/%EC%84%B1%EC%A0%81%ED%8F%89%EA%B0%80.md) ( Softeer 난이도 3 )
 
 ## 자료구조
 - [괄호](./dataStructure/9012.md) ( 백준 9012, 실버4 )
@@ -35,5 +35,5 @@
 - [징검다리](./DynamicProgramming/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.md) ( Softeer 난이도 3 )
 
 ## Heap
-- [강의실 배정](./heap/11000.md) (백준 11000, 골드 5)
-- [강의실 배정](./heap/강의실배정.md) (softeer 난이도 3)
+- [강의실 배정](./heap/11000.md) ( 백준 11000, 골드 5 )
+- [강의실 배정](./heap/강의실배정.md) ( Softeer 난이도 3 )
