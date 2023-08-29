@@ -20,6 +20,7 @@
 - [괄호](./dataStructure/9012.md) ( 백준 9012, 실버4 )
 - [균형잡힌 세상](./dataStructure/4949.md) ( 백준 4949, 실버4 )
 - [요세푸스 문제 0](./dataStrcture/11866.md) ( 백준 11866, 실버4 )
+- [베스트앨범](./dataStructure/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.md) ( 프로그래머스 레벨3 )
 
 ## DFS, BFS
 - [DFS와 BFS](./DFS&BFS/1260.md) ( 백준 1260, 실버2 )
