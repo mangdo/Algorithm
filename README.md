@@ -35,6 +35,7 @@
 - [수퍼 바이러스](./DynamicProgramming/superVirus.md) ( Softeer 난이도3 )
 - [징검다리](./DynamicProgramming/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.md) ( Softeer 난이도3 )
 - [N으로 표현](./DynamicProgramming/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.md) ( 프로그래머스 레벨3 )
+- [정수 삼각형](./DynamicProgramming/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.md) ( 프로그래머스 레벨3 )
 
 ## Heap
 - [강의실 배정](./heap/11000.md) ( 백준 11000, 골드5 )
