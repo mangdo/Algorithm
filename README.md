@@ -28,6 +28,7 @@
 - [토마토](./DFS&BFS/7576.md) ( 백준 7576, 실버1 )
 - [타겟 넘버](./DFS&BFS/타겟넘버.md) ( 프로그래머스 레벨2 )
 - [장애물 인식 프로그램](./DFS%26BFS/%EC%9E%A5%EC%95%A0%EB%AC%BC%EC%9D%B8%EC%8B%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.md) ( Softeer 난이도2 )
+- [아이템 줍기](./DFS%26BFS/%EC%95%84%EC%9D%B4%ED%85%9C%EC%A4%8D%EA%B8%B0.md) ( 프로그래머스 레벨3 )
 
 ## Dynamic Programing
 - [신나는 함수 실행](./DynamicProgramming/9184.md) ( 백준 9184, 실버2 )
