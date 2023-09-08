@@ -42,7 +42,7 @@
 - [강의실 배정](./heap/11000.md) ( 백준 11000, 골드5 )
 - [강의실 배정](./heap/강의실배정.md) ( Softeer 난이도3 )
 - [디스크 컨트롤러](./heap/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.md) ( 프로그래머스 레벨3 )
-- [이중우선순위큐](./heap/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md) ( Softeer 난이도3 )
+- [이중우선순위큐](./heap/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md) ( 프로그래머스 레벨3 )
 
 ## 완전 탐색
 - [전력망을 둘로 나누기](./exhaustiveSearch/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%EB%91%98%EB%A1%9C%EB%82%98%EB%88%84%EA%B8%B0.md) ( 프로그래머스 레벨 2 )
