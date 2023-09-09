@@ -46,3 +46,6 @@
 
 ## 완전 탐색
 - [전력망을 둘로 나누기](./exhaustiveSearch/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%EB%91%98%EB%A1%9C%EB%82%98%EB%88%84%EA%B8%B0.md) ( 프로그래머스 레벨 2 )
+
+## 이진 탐색
+- [입국 심사](./binarySearch/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.md) ( 프로그래머스 레벨 3 )
